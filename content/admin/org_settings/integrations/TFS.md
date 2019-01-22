@@ -1,6 +1,6 @@
 <!--
 title: "VSTS Integration"
-description: "Integrating VSTS and TFS with Contrast"
+description: "Integrating VSTS, TFS and Azure DevOps with Contrast"
 tags: "Admin organization settings integrations vsts tfs"
 -->
 
